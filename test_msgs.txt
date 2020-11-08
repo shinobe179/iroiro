@@ -1,0 +1,7 @@
+emerg: test emergency message.
+alert: test alert message.
+crit: test critical message.
+err: test error message.
+warn: test warnning message.
+info: test info message.
+debug: test debug message.
